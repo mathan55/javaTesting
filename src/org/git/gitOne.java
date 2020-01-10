@@ -11,5 +11,7 @@ public class gitOne {
 		char b=s.charAt(13);
 		System.out.println(b);
 
+		
+		System.out.println(b);
 }
 }
